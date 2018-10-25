@@ -8,6 +8,8 @@ class: middle, inverse
 
 ## [Radovan Bast](https://bast.fr) (NeIC, UiT-The Arctic University of Norway)
 
+### Slides: [bit.ly/oa-social-coding](http://bit.ly/oa-social-coding)
+
 Text is free to share and remix under
 [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
@@ -647,6 +649,8 @@ their internal rights to do their work! -->
 ---
 
 ## Conclusions and discussion
+
+### These slides: [bit.ly/oa-social-coding](http://bit.ly/oa-social-coding)
 
 - Track code using version control, learn Git: https://uit-no.github.io/2018-11-08-uit/
 - Use code review: review each other's code changes
